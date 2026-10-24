@@ -10,13 +10,13 @@ A Camillia skill that writes consistent Conventional Commits messages and pull r
 
 ## Install
 
-Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/skills/skill-commit-writer/` and the agent applies it whenever you ask for a commit message or PR text.
+Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/extensions/commit-writer/` and the agent applies it whenever you ask for a commit message or PR text.
 
 ## Contents
 
-- `skill/SKILL.md` - the procedure the agent follows
-- `skill/commit-types.md` - Conventional Commits type decision table
-- `skill/pr-body-template.md` - pull request body template
+- `extensions/commit-writer/SKILL.md` - the procedure the agent follows
+- `extensions/commit-writer/commit-types.md` - Conventional Commits type decision table
+- `extensions/commit-writer/pr-body-template.md` - pull request body template
 
 ## Validate
 
